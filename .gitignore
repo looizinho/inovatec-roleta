@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Nuitka build files
+*.build/
+*.dist/
+*.exe
+*.cmd
+
+# PlatformIO
+sensores/.pio/
+sensores/.vscode/
+
+# Virtual environment
+arduino/
